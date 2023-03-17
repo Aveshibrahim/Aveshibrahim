@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aveshibrahim
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning cloud architect solutions
+- 🌱 I’m a cloud architect solutions Expert
 - 💞️ I’m looking to collaborate on dev-ops
 - 📫 How to reach me - 
 
